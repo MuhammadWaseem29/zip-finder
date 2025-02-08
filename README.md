@@ -26,7 +26,7 @@ chmod +x zip-finder.sh
 ```
 Then enter the **domain**, e.g.:  
 ```
-🌍 Enter the domain (e.g., example.com): solarcity.com
+🌍 Enter the domain (e.g., example.com): test.com
 ```
 The tool will **automatically scan for backup files!**  
 
