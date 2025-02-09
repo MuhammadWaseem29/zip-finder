@@ -1,10 +1,10 @@
 
-# 🛠 Zip-Finder | Wayback Machine Backup File Finder
+#  Zip-Finder | Wayback Machine Backup File Finder
 
-🚀 **Noob-Wasi**  
-👑 Created by **Muhammad Waseem**  
+ **Noob-Wasi**  
+ Created by **Muhammad Waseem**  
 
-## 🔍 About
+##  About
 **Zip-Finder** is an **automated tool** that scans the **Wayback Machine** for ZIP, TAR, SQL, and other backup files. It **automatically checks for snapshots** and generates **valid download links** for accessible files.  
 
 ## ✨ Features
@@ -13,7 +13,7 @@
 ✅ **Valid Direct Download Links**  
 ✅ **Fast & Reliable Output**  
 
-## 📌 Installation
+##  Installation
 ```bash
 git clone https://github.com/Noob-Wasi/zip-finder.git
 cd zip-finder
@@ -30,7 +30,7 @@ Then enter the **domain**, e.g.:
 ```
 The tool will **automatically scan for backup files!**  
 
-## 🖼 Example Output
+##  Example Output
 ```
  Searching for backup files on the Wayback Machine...
  Backup files found:
