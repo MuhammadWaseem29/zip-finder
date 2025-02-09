@@ -20,7 +20,7 @@ cd zip-finder
 chmod +x zip-finder.sh
 ```
 
-## 🚀 Usage
+##  Usage
 ```bash
 ./zip-finder.sh
 ```
@@ -32,8 +32,8 @@ The tool will **automatically scan for backup files!**
 
 ## 🖼 Example Output
 ```
-🔍 Searching for backup files on the Wayback Machine...
-🎯 Backup files found:
+ Searching for backup files on the Wayback Machine...
+ Backup files found:
 
 📁 http://www.test.com/media-center/video/Vision-1080.zip ✅ (Snapshot Available) 🔗 https://web.archive.org/web/20130926165909/http://www.test.com/media-center/video/Vision-1080.zip
 
