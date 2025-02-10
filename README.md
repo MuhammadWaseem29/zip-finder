@@ -20,9 +20,7 @@ cd zip-finder
 chmod +x zip-finder.sh
 ```
 
-## 📺 Video Tutorial  
-
-[![How to Use Zip-Finder](https://img.youtube.com/vi/zjZc0sXN86E/0.jpg)](https://www.youtube.com/watch?v=1gktJl850zw)
+[![How to Use Zip-Finder](https://img.youtube.com/vi/1gktJl850zw/0.jpg)](https://www.youtube.com/watch?v=1gktJl850zw)
 
 
 
