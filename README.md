@@ -22,7 +22,7 @@ chmod +x zip-finder.sh
 
 ## 📺 Video Tutorial  
 
-[![How to Use Zip-Finder](https://img.youtube.com/vi/zjZc0sXN86E/0.jpg)](https://www.youtube.com/watch?v=zjZc0sXN86E)
+[![How to Use Zip-Finder](https://img.youtube.com/vi/zjZc0sXN86E/0.jpg)](https://www.youtube.com/watch?v=1gktJl850zw)
 
 
 
