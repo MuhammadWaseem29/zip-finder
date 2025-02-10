@@ -16,7 +16,7 @@
 ##  Installation
 ```bash
 git clone https://github.com/Noob-Wasi/zip-finder.git
-cd zip-finderzip-finder
+cd zip-finder
 chmod +x zip-finder.sh
 ```
 
