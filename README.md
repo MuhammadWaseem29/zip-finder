@@ -61,7 +61,7 @@ Feel free to **open an issue** or **submit a pull request** if you have any sugg
 
 ## ⚡ Author
 👤 **Muhammad Waseem**  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-waseem)  
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammadwaseem11)  
 📺 [YouTube](https://www.youtube.com/@MuhammadWaseem)  
 
 ## 📜 License
